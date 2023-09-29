@@ -1,8 +1,8 @@
-var name1 = "jahanzaib"
-var name2 = "Shahzaib"
-var name3 = "Aurangzaib"
-var name4 = "Muzzammil"
-var name5 = "Muhammad \n Saeed \n Baloch"
+var name1 = "Error! please enter a valid password"
+var name2 = "welcome to Js Land\n happy codding!"
+var name3 = "welcome to Js Land"
+var name4 = "happy codding!\n [] prevent this page from creating additional dialogs"
+var name5 = "Hello... I can run JS through my web browser's console"
 
 
 
